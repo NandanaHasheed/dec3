@@ -1,3 +1,8 @@
+'''
+Author: Nandana Hasheed 
+Date:3/12/2024
+Python program to find the fibonacci series of number
+'''
 def generate_fibonacci(n):
     sequence=[]
     first_number,second_number=0,1
