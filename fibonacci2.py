@@ -1,3 +1,8 @@
+'''
+Author: Nandana Hasheed 
+Date:3/12/2024
+Python program to find the fibonacci series of a number
+'''
 n=int(input("Enter a range"))
 first_number=1
 second_number=0
